@@ -19,7 +19,7 @@
     "mongodb": "^3.0.8",
     "reflect-metadata": "^0.1.10",
     "type-graphql": "^1.1.1",
-    "typeorm": "0.2.37"
+    "typeorm": "0.2.38"
   },
   "scripts": {
     "start": "nodemon --exec ts-node src/index.ts"
